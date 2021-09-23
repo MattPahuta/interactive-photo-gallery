@@ -25,7 +25,7 @@ img {
 }
 
 
-input[type="text"] {
+input[type="search"] {
   width: 100%;
   font-family: inherit;
   outline: none;
@@ -39,7 +39,7 @@ input[type="text"] {
   margin-bottom: .75em;
 }
 
-input[type="text"]:focus {
+input[type="search"]:focus {
   box-shadow: 0 0 5px rgb(94, 152, 190) inset;
   transition: box-shadow .2s ease-in-out;
 }
