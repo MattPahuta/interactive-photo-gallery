@@ -44,7 +44,7 @@ input[type="text"]:focus {
   transition: box-shadow .2s ease-in-out;
 }
 
-.gallery-container {
+.gallery {
   margin: 2em auto;
   max-width: 1000px;
   display: grid;
